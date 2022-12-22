@@ -1,0 +1,15 @@
+C:\lessons\Final-work\Task_code\bin\Debug\net6.0\Task_code.exe
+C:\lessons\Final-work\Task_code\bin\Debug\net6.0\Task_code.deps.json
+C:\lessons\Final-work\Task_code\bin\Debug\net6.0\Task_code.runtimeconfig.json
+C:\lessons\Final-work\Task_code\bin\Debug\net6.0\Task_code.dll
+C:\lessons\Final-work\Task_code\bin\Debug\net6.0\Task_code.pdb
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.csproj.AssemblyReference.cache
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.AssemblyInfoInputs.cache
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.AssemblyInfo.cs
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.csproj.CoreCompileInputs.cache
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.dll
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\refint\Task_code.dll
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.pdb
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\Task_code.genruntimeconfig.cache
+C:\lessons\Final-work\Task_code\obj\Debug\net6.0\ref\Task_code.dll
