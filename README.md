@@ -17,3 +17,31 @@
 2. **Описание решения**
 Пользователь указывает сколько элементов (N) он хочет задать и заполняет стартовый массив элементами в цикле N-раз.
 Идём по стартовому массиву в цикле и проверяем, подходит ли элемент условию "длина символов <= 3". Если элемент подходит под данное условие, то мы добавляем его в новый массив, используя при этом дополнительный счетчик, чтобы элементы в новом массиве заполнялись последовательно (без пропусков).
+3. **Решение задачи**
+Программа и код решения задачи находятся в папке **Task_code**
+Console.Write("Введите кол-во элементов массива: ");
+int size = Convert.ToInt32(Console.ReadLine()!);
+string[] array = new string[size];
+int len = 3;
+int pos = 0;
+for (int i = 0; i < size; i++)
+{
+ Console.WriteLine($"Введите {i+1} элемент массива: ");
+ string element = Convert.ToString(Console.ReadLine()!);
+ if (element.Length <= len)
+    {
+ array[pos] = element;
+ pos++;
+    }
+}
+Console.WriteLine();
+PrintArray(array);
+//-----------------печать массива--------------
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+    Console.WriteLine();
+}
